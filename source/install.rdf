@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		 xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+    <em:id>checkplaces@andyhalford.com</em:id>
+    <em:name>CheckPlaces</em:name>
+    <em:version>2.6.2B</em:version>
+
+    <em:type>2</em:type>
+    <em:homepageURL>http://www.andyhalford.com/checkplaces/index.html</em:homepageURL>
+    <em:iconURL>chrome://checkplaces/skin/icon48.png</em:iconURL>
+    <em:icon64URL>chrome://checkplaces/skin/icon64.png</em:icon64URL>
+    <em:optionsURL>chrome://checkplaces/content/options.xul</em:optionsURL>
+
+    <em:creator>Andy Halford</em:creator>
+    <em:translator>Jojaba (fr)</em:translator>
+    <em:translator>Leszek (teo) Życzkowski (pl)</em:translator>
+    <em:translator>Team erweiterungen.de (de)</em:translator>
+    <em:translator>Wawuschel (de)</em:translator>
+    <em:translator>57_homer (de)</em:translator>
+    <em:translator>Edgard Dias Magalhaes (pt-BR)</em:translator>
+    <em:translator>yfdyh000 (zh-CN)</em:translator>
+    <em:translator>nikneyim (tr)</em:translator>
+    <em:translator>Christiansen (da)</em:translator>
+    <em:translator>shyangs (zh-TW)</em:translator>
+    <em:translator>Wtspout (ko-KR)</em:translator>
+    <em:translator>KozÃ¡k Csaba (WonderCsabo) (hu)</em:translator>
+    <em:translator>PetrTwo (cs-CZ)</em:translator>
+    <em:translator>Mikael Hiort af Ornäs (sv-SE)</em:translator>
+
+		<!-- Firefox -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>3.0</em:minVersion>
+				<em:maxVersion>22.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+		<!-- SeaMonkey -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+				<em:minVersion>2.1b1</em:minVersion>
+				<em:maxVersion>2.10.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+	</Description>
+</RDF>
