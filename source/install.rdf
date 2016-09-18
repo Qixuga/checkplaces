@@ -8,12 +8,13 @@
     <em:version>2.6.2B</em:version>
 
     <em:type>2</em:type>
-    <em:homepageURL>http://www.andyhalford.com/checkplaces/index.html</em:homepageURL>
+    <em:homepageURL>https://github.com/Qixuga/checkplaces</em:homepageURL>
     <em:iconURL>chrome://checkplaces/skin/icon48.png</em:iconURL>
     <em:icon64URL>chrome://checkplaces/skin/icon64.png</em:icon64URL>
     <em:optionsURL>chrome://checkplaces/content/options.xul</em:optionsURL>
 
     <em:creator>Andy Halford</em:creator>
+    <em:contributor>Frank Kirchner</em:contributor>
     <em:translator>Jojaba (fr)</em:translator>
     <em:translator>Leszek (teo) Życzkowski (pl)</em:translator>
     <em:translator>Team erweiterungen.de (de)</em:translator>

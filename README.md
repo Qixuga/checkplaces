@@ -17,4 +17,7 @@ Thanks to Daniel Lange for contribution!
 Or use the github-builds:
 - https://github.com/Qixuga/checkplaces/build
 
+Latest Version always can be downloaded with the following url:
+- https://github.com/Qixuga/checkplaces/build/checkplaces-latest.xpi
+
 Thank you to all developer and ff-pluginfans for support!
